@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+# Resultados
+*.asc
+*.vtk
+*.post.res
+
 # Object files
 *.o
 *.ko
